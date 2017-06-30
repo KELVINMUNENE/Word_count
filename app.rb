@@ -1,5 +1,5 @@
 require('sinatra')
-  require('sinatrea/reloader')
+  require('sinatra/reloader')
     require('./lib/word_count')
     also_reload('lib/word_count.rb')
 
