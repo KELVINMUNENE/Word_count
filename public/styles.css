@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+h1 {
+  font-family: 'Bangers';
+
+}
+body {
+  font-family: 'Bangers';
+  background-image: url(https://images.pexels.com/photos/28838/pexels-photo-28838.jpg?h=350&auto=compress&cs=tinysrgb);
+  background-size: cover;}  /* For a full size background image */
+}
