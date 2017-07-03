@@ -26,7 +26,9 @@ $ cd word count
 $ bundle install
 
 To view App:
-[ViewApp.md](https://dashboard.heroku.com/apps/safe-ridge-45415)
+
+
+[ViewApp](https://www.google.com)
 
 
 ```
