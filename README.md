@@ -7,9 +7,9 @@ A website that uses a method to return how frequently a word appears in a given 
 
 Word Count uses a number of open source projects to work properly:
 
-> Github
-> Ruby
-> Heroku
+* Github
+* Ruby
+* Heroku
 
 
 
@@ -24,6 +24,11 @@ To run the project :
 $ git clone https://github.com/KELVINMUNENE/Word_count.git
 $ cd word count
 $ bundle install
+
+To view App:
+[view app] (https://dashboard.heroku.com/apps/safe-ridge-45415)
+
+
 ```
 
 License
