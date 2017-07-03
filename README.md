@@ -26,7 +26,7 @@ $ cd word count
 $ bundle install
 
 To view App:
-[view app] (https://dashboard.heroku.com/apps/safe-ridge-45415)
+[view App](https://dashboard.heroku.com/apps/safe-ridge-45415)
 
 
 ```
