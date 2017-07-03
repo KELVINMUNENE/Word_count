@@ -1,7 +1,7 @@
 # WORD COUNT
 A website that uses a method to return how frequently a word appears in a given string.The user should be able to  input both the word and the string of words to check.
 
-
+######[view App](https://dashboard.heroku.com/apps/safe-ridge-45415)
 
 ### Tech
 
@@ -28,7 +28,7 @@ $ bundle install
 To view App:
 
 
-[ViewApp](https://www.google.com)
+[ViewApp](https://www.google.com/)
 
 
 ```
